@@ -15,3 +15,16 @@ Develop a regression model to try to predict the error made by the un-named comp
 A. Build the overall “best” regression model to predict the error made by the un-named companies model (“logerror” column). You will need to decide how you define and demonstrate which model is “best”. Comment on any limitations this model might have when used by management for its desired purpose (house price prediction).
 
 B. Determine which features are the most important for detecting errors. Discuss if these make sense.
+
+**Machine Learning Models for this project
+
+ - Linear Regression
+ - Elastic Net
+ - Ridge Regression
+ - Lasso Regression
+ - XG Boost Regression
+ - Ada Boost Regression
+ - Gradient Boost Regression
+ - Decision Tree Regressor
+ - Randon Forest Regressor
+ - 
