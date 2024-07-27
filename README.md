@@ -16,7 +16,7 @@ A. Build the overall “best” regression model to predict the error made by th
 
 B. Determine which features are the most important for detecting errors. Discuss if these make sense.
 
-**Machine Learning Models for this project
+**Machine Learning Models tested in this project**
 
  - Linear Regression
  - Elastic Net
